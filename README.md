@@ -13,3 +13,13 @@ It is for to test, to learn new tehnologies in client-server interaction on Grap
 
 ## used technologies
 The stack you used was based on Node.js, apollo-server and Prisma.
+
+## Usage
+To start project you must install node.js
+and then in the appropriate directory of your project, run the following command:
+
+```
+node src/index.js
+```
+
+The server will be started at http://localhost:4000
