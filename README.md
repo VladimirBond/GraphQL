@@ -10,7 +10,7 @@ The goal of this project is to build an API for to show notifications on message
 It is for to test, to learn new tehnologies in client-server interaction on GraphQL
 
 
-## used library
+## Used library
 The stack you used based on 
 - node.js 
 - apollo-server
