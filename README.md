@@ -3,11 +3,7 @@ In this project I trying to work with
 development frontend, backend for web-applications
 
  use the following technologies:
-* Node.js
-* GraphQL
-* JavaScript
-* SQLite
-* Prisma
+ Node.js, GraphQL, JavaScript, SQLite, ORM Prisma
 
 The goal of this project is to build an API for to show notifications on message board.
 It is for to test, to learn new tehnologies in client-server interaction on GraphQL
