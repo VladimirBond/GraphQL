@@ -1,4 +1,4 @@
-# GraphQL, AppoloServer
+# Learning GraphQL
 In this project I trying to work with 
 development frontend, backend for web-applications
 
@@ -12,7 +12,10 @@ It is for to test, to learn new tehnologies in client-server interaction on Grap
 
 
 ## used library
-The stack you used based on Node.js, apollo-server and Prisma.
+The stack you used based on 
+Node.js, 
+apollo-server
+Prisma.
 
 ## Usage
 To start project I install node.js
