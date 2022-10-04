@@ -15,8 +15,8 @@ It is for to test, to learn new tehnologies in client-server interaction on Grap
 The stack you used based on Node.js, apollo-server and Prisma.
 
 ## Usage
-To start project you must install node.js
-and then in the appropriate directory of your project, run the following command:
+To start project I install node.js
+and then in the appropriate directory of project, run the following command:
 
 ```
 node src/index.js
