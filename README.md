@@ -12,7 +12,7 @@ It is for to test, to learn new tehnologies in client-server interaction on Grap
 
 
 ## used technologies
-The stack you used was based on Node.js, apollo-server and Prisma.
+The stack you used based on Node.js, apollo-server and Prisma.
 
 ## Usage
 To start project you must install node.js
