@@ -11,7 +11,7 @@ The goal of this project is to build an API for to show notifications on message
 It is for to test, to learn new tehnologies in client-server interaction on GraphQL
 
 
-## used technologies
+## used library
 The stack you used based on Node.js, apollo-server and Prisma.
 
 ## Usage
