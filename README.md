@@ -28,4 +28,5 @@ node src/index.js
 
 The server will be started at http://localhost:4000.
 
-Now with the GraphQLPlayGround can testing GraphQLServer,for place posts, delete posts and get a list posts
+Now with the GraphQLPlayGround can testing GraphQLServer,for place posts(via query "post"), delete posts(via query "deleteLink") 
+and get a list posts(via query "feed", using various filters )
