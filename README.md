@@ -8,7 +8,7 @@ In this project I trying to work with
 
 The goal of this project is to build an API for to show notifications on message board.
 Notifications is short posts, that contain a reference and description put an by user.
-This project is for testing, learning new tehnologies in client-server interaction on GraphQL
+This project is for testing, learning new tehnologies in client-server interaction on GraphQL via GraphQL Playground
 
 
 ## Used library
