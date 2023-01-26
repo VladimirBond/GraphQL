@@ -1,0 +1,30 @@
+function feed(parent,args,context) {
+      const where = args.filter
+    ? {
+      OR: [
+        { description: { contains: args.filter } },
+        { url: { contains: args.filter } },
+      ],
+    }
+    : {}
+
+  	  return context.prisma.link.findMany({ 
+	  where, 
+	  skip : args.skip,
+	  take : args.take,
+	  })
+	}
+	
+function link(parent,args,context) {
+    return context.prisma.link.findUnique({
+			where :{id:args.id}
+		})
+}
+function info() {
+	return `This is the API of a My Bondar V.V. appNews Clone`	
+}
+module.exports = {
+  feed,
+  link,
+  info,
+}
